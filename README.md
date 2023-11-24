@@ -6,7 +6,7 @@
 인사하는 CHATBOT 사진
 
 # 성공 사진2
-![분할 성공 사진2 ](results/3.png)
+![분할 성공 사진2 ](results/4.png)
 질문에 답해주는 CHATBOT 사진
 
 ## 실행 방법 (python=3.7.16)
